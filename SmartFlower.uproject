@@ -8,5 +8,12 @@
 			"Name": "SunPosition",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"HTML5",
+		"LinuxNoEditor",
+		"AllDesktop",
+		"WindowsNoEditor",
+		"MacNoEditor"
 	]
 }
