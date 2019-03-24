@@ -4,6 +4,7 @@ Small demonstration of EDF's smartflower using Unreal Engine 4
 # Demonstration
 You can download demo binaries [here](https://github.com/mhoangvslev/SmartFlower/releases)
 
+Video:
 [![Watch the video](https://img.youtube.com/vi/d3jxUIbJwIo/maxresdefault.jpg)](https://youtu.be/d3jxUIbJwIo)
 
 ## Organisation
